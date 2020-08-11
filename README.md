@@ -6,5 +6,3 @@
 - {repository} — репозиторий где хранятся картинки
 - {branch} — ветка репозитория
 - {path} — путь к месту нахождения картинки
-
-![Image alt](https://github.com/vlades7/screenshots/raw/master/Login.jpg)
